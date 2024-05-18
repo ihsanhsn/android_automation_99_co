@@ -59,7 +59,7 @@ android_automation_99_co/
 ## Automation Results
 
 - Login Test
-  ![Alt text](https://drive.google.com/file/d/1iQMNekvxp28CJ53daKpmqYX0bIPGGJFB/view?usp=drive_link) 
+  <img width="954" alt="LoginTest" src="https://github.com/ihsanhsn/android_automation_99_co/assets/8023900/f05bc99c-8148-4823-9b0c-2364739fe74a">
 
 - Forms Test
-  ![Alt text](https://drive.google.com/file/d/1dSx_Hj5y1thA0CaAJZEGX2z7fQQS9uLd/view?usp=drive_link)
+  <img width="947" alt="FormsTest" src="https://github.com/ihsanhsn/android_automation_99_co/assets/8023900/0166b8b8-0a6f-4668-a7d2-97b3e1b52ecb">
