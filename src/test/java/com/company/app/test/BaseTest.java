@@ -1,10 +1,15 @@
 package com.company.app.test;
 
+/*
+ * Author: Ihsan Hasanudin
+ * Date: 17-05-2024
+ * Description: BaseTest for setup android automation
+ */
+
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import io.appium.java_client.android.AndroidDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
@@ -14,8 +19,6 @@ import java.net.URL;
 
 public class BaseTest {
     protected AppiumDriver<MobileElement> driver;
-
-    public WebDriverWait wait;
 
     @BeforeMethod
     public void setUp() throws MalformedURLException {

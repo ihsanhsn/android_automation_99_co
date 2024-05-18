@@ -1,5 +1,11 @@
 package com.company.app.test;
 
+/*
+ * Author: Ihsan Hasanudin
+ * Date: 17-05-2024
+ * Description: LoginTest for run scenarios login
+ */
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
